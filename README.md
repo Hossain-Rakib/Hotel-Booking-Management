@@ -37,7 +37,7 @@ I had to remove all unnecessary columns because they would not have affected the
 
 ### References
 
-1. [Stack Overflow](https://stack.com)
+1. [Stack Overflow](https://stackoverflow.com)
 2. [Kaggle](https://kaggle.com)
 
 
